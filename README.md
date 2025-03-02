@@ -1,4 +1,4 @@
-![Hospitality Domain-5](https://github.com/user-attachments/assets/dfcdd6d4-0177-4bb5-b775-6ca0c1f4b279)![Hospitality Domain-3](https://github.com/user-attachments/assets/4db38eb2-fef4-4f8a-8a68-1a44a7cbe79e)![Hospitality Domain-6](https://github.com/user-attachments/assets/a6ac59e6-66a3-4c75-93ad-b43069148249)# Hospitality Management Insights Dashboard
+# Hospitality Management Insights Dashboard
 
 Welcome to the **Hospitality Management Insights Dashboard** project! This repository features an interactive Power BI dashboard built to deliver actionable insights for hotel revenue management. The project integrates multiple data sources from the hospitality domain and demonstrates my expertise in data analysis, visualization, and business intelligence.
 
