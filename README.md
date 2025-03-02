@@ -12,7 +12,7 @@ Welcome to the **Hospitality Management Insights Dashboard** project! This repos
 - [Dashboard Highlights](#dashboard-highlights)
 - [Key Insights](#key-insights)
 - [Technologies Used](#technologies-used)
-- [How to Explore](#how-to-explore)
+- [Screen Shots](#screen-shots)
 - [Conclusion](#conclusion)
 
 ---
@@ -103,7 +103,7 @@ All these datasets have been integrated in Power BI to calculate and visualize i
 
 ---
 
-## How to Explore
+## Screen Shots
 
 ![Hospitality Domain-1](https://github.com/user-attachments/assets/6f202a3d-c227-490d-a9c1-83a88730ebbf)
 ![Hospitality Domain-2](https://github.com/user-attachments/assets/e69deff6-541b-4833-9af6-3210ffed520a)
