@@ -107,7 +107,6 @@ All these datasets have been integrated in Power BI to calculate and visualize i
 ![Hospitality Domain-1](https://github.com/user-attachments/assets/6f202a3d-c227-490d-a9c1-83a88730ebbf)
 ![Hospitality Domain-2](https://github.com/user-attachments/assets/e69deff6-541b-4833-9af6-3210ffed520a)
 ![Hospitality Domain-3](https://github.com/user-attachments/assets/3397c8d1-b84a-41c2-8c87-d06c9b9b256a)
-![Hospitality Domain-4](https://github.com/user-attachments/assets/d6db78e1-9217-4dbe-8049-b0ce5644ef2b)
 ![Hospitality Domain-5](https://github.com/user-attachments/assets/eab76a0d-55d8-4475-bcd8-6cfe9c24910d)
 ![Hospitality Domain-7](https://github.com/user-attachments/assets/02c6b086-b7e8-4bcb-890c-69f002f9adab)
 
