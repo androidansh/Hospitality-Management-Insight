@@ -46,6 +46,7 @@ All these datasets have been integrated in Power BI to calculate and visualize i
 2. **Exploratory Data Analysis (EDA)**  
    - Conducted initial EDA to understand trends and spot anomalies in the booking data.
    - Identified key metrics such as revenue, RevPAR (Revenue per Available Room), ADR (Average Daily Rate), and occupancy percentages.
+   - Performed exploratory data analysis using microsoft-excel.
 
 3. **Dashboard Development in Power BI**  
    - **Calculated Measures:** Custom DAX measures were created for metrics like % Revenue by Category, Realisation %, and ADR by booking platform.
